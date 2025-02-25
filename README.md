@@ -9,3 +9,6 @@
 - Data is stored in **Firebase** and processed using **FastAPI**.
 
 ### 📊 Data Processing & Visualization
+- **FastAPI generates graphs** from raw sensor data (stored as bits).
+- **ML Model** calculates **average acceleration & velocity**.
+- **React UI + Flask** displays real-time **location tracking (latitude & longitude)**.
