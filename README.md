@@ -12,3 +12,7 @@
 - **FastAPI generates graphs** from raw sensor data (stored as bits).
 - **ML Model** calculates **average acceleration & velocity**.
 - **React UI + Flask** displays real-time **location tracking (latitude & longitude)**.
+
+### 🚨 Speed & Acceleration Alerts
+- If high acceleration/velocity is detected, alerts are sent via **EmailJS / Twilio**.
+- Helps prevent **accidents by notifying drivers to slow down**.
