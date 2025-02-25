@@ -118,7 +118,6 @@ npm start
 - **AI-based predictive analytics** for accident prevention.
 - **Improved emergency response system** with geolocation tracking.
 - **Mobile App Integration** for instant alerts.
-- 
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
