@@ -16,3 +16,5 @@
 ### 🚨 Speed & Acceleration Alerts
 - If high acceleration/velocity is detected, alerts are sent via **EmailJS / Twilio**.
 - Helps prevent **accidents by notifying drivers to slow down**.
+
+### 🆘 Accident Detection & Emergency Alerts
