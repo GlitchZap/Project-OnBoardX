@@ -33,3 +33,7 @@
 ![image](https://github.com/user-attachments/assets/85ce79d9-0794-4bd1-9f0a-fd9d642b124b)
 
 ![image](https://github.com/user-attachments/assets/af127a8f-e339-4e1e-a7db-7d4235ec2ae0)
+
+
+## 📸 Implementation Screenshots
+### 🔹 ESP32 + Gyro Sensor Data Logging
