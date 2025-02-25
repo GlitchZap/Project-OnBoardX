@@ -1,2 +1,1 @@
-# Project-OnBoardX
-IoT based low cost telemetry dongle project
+# 🚗 Project-OnBoardX - IoT-Based Vehicle Monitoring System
