@@ -7,3 +7,5 @@
 ### 🚀 Real-Time Data Collection
 - **ESP32 + Gyro Sensor** collects **acceleration & velocity** data.
 - Data is stored in **Firebase** and processed using **FastAPI**.
+
+### 📊 Data Processing & Visualization
