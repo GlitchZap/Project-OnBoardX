@@ -18,3 +18,6 @@
 - Helps prevent **accidents by notifying drivers to slow down**.
 
 ### 🆘 Accident Detection & Emergency Alerts
+- **Raspberry Pi + Pressure Sensor** detects abnormal pressure.
+- **Emergency signal is sent** via **ESP32 WiFi**.
+- Nearby **hospitals, people, ambulances, and fire stations** receive alerts.
